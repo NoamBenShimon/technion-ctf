@@ -3,7 +3,7 @@ order: -30
 ---
 
 # FAQ
-
+ 
 ==- What is CTF?
 CTF ("Capture The Flag") is a computer security competition where the objective is to discover "flags" concealed within intentionally vulnerable programs or websites.
 
